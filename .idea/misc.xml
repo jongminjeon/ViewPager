@@ -5,7 +5,10 @@
       <map>
         <entry key="..\:/Users/jeonj/MyApplication2/app/src/main/res/drawable/button_border.xml" value="0.191" />
         <entry key="..\:/Users/jeonj/MyApplication2/app/src/main/res/drawable/ic_baseline_arrow_upward_24.xml" value="0.191" />
-        <entry key="..\:/Users/jeonj/MyApplication2/app/src/main/res/layout/activity_main.xml" value="0.23777173913043478" />
+        <entry key="..\:/Users/jeonj/MyApplication2/app/src/main/res/drawable/ic_menu_camera.xml" value="0.1915" />
+        <entry key="..\:/Users/jeonj/MyApplication2/app/src/main/res/drawable/ic_menu_college.xml" value="0.1915" />
+        <entry key="..\:/Users/jeonj/MyApplication2/app/src/main/res/drawable/ic_menu_culture.xml" value="0.1915" />
+        <entry key="..\:/Users/jeonj/MyApplication2/app/src/main/res/layout/activity_main.xml" value="0.33" />
         <entry key="..\:/Users/jeonj/MyApplication2/app/src/main/res/layout/page.xml" value="0.3023255813953488" />
       </map>
     </option>

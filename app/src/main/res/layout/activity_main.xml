@@ -18,16 +18,26 @@
             android:layout_height="wrap_content"
             android:layout_weight="1"/>
 
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1">
+
+        </LinearLayout>
         <LinearLayout
             android:layout_width="match_parent"
             android:layout_height="match_parent"
             android:layout_weight="1">
             <Button
                 android:id="@+id/main_report"
+                android:text="보도"
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
-                android:text="보도"
                 android:background="@drawable/button_border"
+                android:paddingLeft="20dp"
+                android:drawableLeft="@drawable/ic_menu_camera"
+                android:drawableTint="@color/black"
                 android:layout_weight="1"/>
             <Button
                 android:id="@+id/main_college"
@@ -35,6 +45,9 @@
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
                 android:background="@drawable/button_border"
+                android:paddingLeft="20dp"
+                android:drawableLeft="@drawable/ic_menu_college"
+                android:drawableTint="@color/black"
                 android:layout_weight="1"/>
         </LinearLayout>
         <LinearLayout
@@ -47,6 +60,9 @@
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
                 android:background="@drawable/button_border"
+                android:paddingLeft="20dp"
+                android:drawableLeft="@drawable/ic_menu_planning"
+                android:drawableTint="@color/black"
                 android:layout_weight="1"/>
             <Button
                 android:id="@+id/main_employment"
@@ -54,6 +70,9 @@
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
                 android:background="@drawable/button_border"
+                android:paddingLeft="20dp"
+                android:drawableLeft="@drawable/ic_menu_employment"
+                android:drawableTint="@color/black"
                 android:layout_weight="1"/>
         </LinearLayout>
         <LinearLayout
@@ -66,6 +85,9 @@
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
                 android:background="@drawable/button_border"
+                android:paddingLeft="20dp"
+                android:drawableLeft="@drawable/ic_menu_events"
+                android:drawableTint="@color/black"
                 android:layout_weight="1"/>
             <Button
                 android:id="@+id/main_culture"
@@ -73,6 +95,9 @@
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
                 android:background="@drawable/button_border"
+                android:paddingLeft="20dp"
+                android:drawableLeft="@drawable/ic_menu_culture"
+                android:drawableTint="@color/black"
                 android:layout_weight="1"/>
         </LinearLayout>
         <LinearLayout
@@ -85,6 +110,9 @@
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
                 android:background="@drawable/button_border"
+                android:paddingLeft="20dp"
+                android:drawableLeft="@drawable/ic_menu_people"
+                android:drawableTint="@color/black"
                 android:layout_weight="1"/>
             <Button
                 android:id="@+id/main_opinion"
@@ -92,6 +120,9 @@
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
                 android:background="@drawable/button_border"
+                android:paddingLeft="20dp"
+                android:drawableLeft="@drawable/ic_menu_opinion"
+                android:drawableTint="@color/black"
                 android:layout_weight="1"/>
 
         </LinearLayout>
@@ -105,6 +136,9 @@
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
                 android:background="@drawable/button_border"
+                android:paddingLeft="20dp"
+                android:drawableLeft="@drawable/ic_menu_go"
+                android:drawableTint="@color/black"
                 android:layout_weight="1"/>
             <Button
                 android:id="@+id/main_knowledge"
@@ -112,6 +146,9 @@
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
                 android:background="@drawable/button_border"
+                android:paddingLeft="20dp"
+                android:drawableLeft="@drawable/ic_menu_knowledge"
+                android:drawableTint="@color/black"
                 android:layout_weight="1"/>
 
         </LinearLayout>
